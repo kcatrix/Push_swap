@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   sort_utilities_2.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: operculesanguinaire <marvin@42.fr>         +#+  +:+       +#+        */
+/*   By: kcatrix <kcatrix@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/11/08 15:37:40 by operculesangu     #+#    #+#             */
-/*   Updated: 2021/11/08 15:54:19 by operculesangu    ###   ########.fr       */
+/*   Created: 2022/02/03 14:45:17 by kcatrix           #+#    #+#             */
+/*   Updated: 2022/02/03 14:45:19 by kcatrix          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

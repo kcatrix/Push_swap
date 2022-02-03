@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstadd_back.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: operculesanguinaire <marvin@42.fr>         +#+  +:+       +#+        */
+/*   By: kcatrix <kcatrix@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/11/08 14:31:04 by operculesangu     #+#    #+#             */
-/*   Updated: 2021/11/08 14:31:06 by operculesangu    ###   ########.fr       */
+/*   Created: 2022/02/03 14:41:26 by kcatrix           #+#    #+#             */
+/*   Updated: 2022/02/03 14:41:28 by kcatrix          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
